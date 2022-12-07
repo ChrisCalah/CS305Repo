@@ -1,0 +1,6 @@
+
+# Contributing
+
+## Submitting modifications
+
+Create a branch and send a pull request with a short message on what was modified.
