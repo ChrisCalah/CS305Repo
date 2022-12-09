@@ -9,4 +9,5 @@ Create a branch and send a pull request with a short message on what was modifie
 ## List of Contributors
 
 Christopher Calahan
+Matthew Riehm
 
