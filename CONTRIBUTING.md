@@ -10,4 +10,4 @@ Create a branch and send a pull request with a short message on what was modifie
 
 Christopher Calahan
 Matthew Riehm
-
+Zachary Finver
